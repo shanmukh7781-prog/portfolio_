@@ -8,7 +8,7 @@ const education = [
     title: 'B.Tech in Electronics and Communication Engineering',
     institution: 'SRKR Engineering College, Bhimavaram',
     period: '2021 – 2025',
-    description: 'Graduated with a B.Tech in ECE. Concurrently trained in Java Full Stack Engineering with Angular at Cognizant during the final year.',
+    description: 'Graduated with a B.Tech in ECE. ',
   },
   {
     title: 'Intermediate Education (MPC)',
@@ -28,7 +28,7 @@ const experience = [
   {
     title: 'Programmer Analyst Trainee',
     company: 'Cognizant Technology Solutions, Coimbatore',
-    period: 'Jan 2025 – Present',
+    period: 'Jan 2026 – Present',
     current: true,
     description: [
       'Undergoing intensive training in Java Full Stack Engineering with Angular — currently in final stage.',
