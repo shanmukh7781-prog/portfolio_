@@ -4,7 +4,8 @@ import { Download, FileText, Shield } from 'lucide-react';
 export default function Resume() {
   const handleMainResumeDownload = () => {
     // Open Google Drive file in new tab for download
-    window.open('https://drive.google.com/file/d/1GKRbZBG2TJlra6fv24ylSmBrNtdr7_QX/view?usp=drive_link', '_blank');
+    //window.open('https://drive.google.com/file/d/1GKRbZBG2TJlra6fv24ylSmBrNtdr7_QX/view?usp=drive_link', '_blank');
+    window.open('https://drive.google.com/drive/folders/1o2EdjLGBDOfTlzO_1GJJOZkWUwY5JO8c?usp=sharing', '_blank');
   };
 
   const handleCyberResumeDownload = () => {
@@ -60,7 +61,7 @@ export default function Resume() {
                   Download Resume
                 </motion.button>
                 <p className="text-sm text-gray-500 mt-4">
-                  PDF format • Last updated: January 2025
+                  PDF format • Last updated: June 2026
                 </p>
               </div>
             </motion.div>
